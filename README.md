@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr Białas</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 <p align="center">
-- 🌱 I’m currently learning **mockito**
+- 🌱 I’m currently learning **Spring**
 <p align="center">
 - 📫 How to reach me **Bialas.piotrek@outlook.com**
 
