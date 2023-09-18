@@ -3,7 +3,7 @@
 
 <h3 align="center">Strong passion for software engineering, seeking to specialize in backend development.</h3>
 
-- 🌱 I’m currently learning **Spring, mockito**
+- 🌱 I’m currently learning **Spring, mockito, swagger**
 
 - 💬 Ask me about **Java** <div><img align="right" width="250" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
 
