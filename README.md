@@ -7,7 +7,7 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **Bialas.Piotrek@outlook.com**
- <div><img align="right" width="250" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
