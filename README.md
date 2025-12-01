@@ -2,7 +2,7 @@
 <div align="center"><img width="200" height="20" src="https://github.com/mati-1/mati-1/blob/main/line.gif" alt="underline gif" /></div>
 <h3 align="center">Strong passion for software engineering, seeking to specialize in backend development.</h3>
 
-- 🌱 I’m currently learning **Spring, mockito**
+- 🌱 I’m currently learning **Docker and kubernetes**
 
 - 💬 Ask me about **Java**
 
