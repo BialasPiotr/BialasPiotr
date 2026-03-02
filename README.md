@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 💼 I have nearly **2 years of commercial experience** as a Full Stack Developer.
+- 💼 I have **2 years of commercial experience** as a Full Stack Developer.
 - 💻 At work, I maintain and develop systems mainly in **PHP** and **JavaScript**, integrating with **Java** services.
 - 🌱 My main focus and passion is **Backend Development** with **Java, Spring Boot & Docker**.
 
@@ -46,7 +46,6 @@
 #### 💾 Databases
 <p>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://dbeaver.io" target="_blank"><img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" /></a>
   <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 </p>
 
@@ -60,6 +59,7 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /></a>
   <a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
   <a href="https://www.soapui.org" target="_blank"><img src="https://img.shields.io/badge/SoapUI-FCDC00?style=for-the-badge&logo=soapui&logoColor=black" alt="SoapUI" /></a>
+  <a href="https://dbeaver.io" target="_blank"><img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" /></a>
 </p>
 
 #### 📚 Also familiar with
